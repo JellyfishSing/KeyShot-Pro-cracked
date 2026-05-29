@@ -24,4 +24,4 @@ Core Capabilities
 
 
 TAGS
-keyshot, keyshot-pro, keyshot-2026, 3d-rendering, real-time-render, product-viz, pbr-materials, pro-software-2026, trial-software, windows-software-2026                       
+keyshot, keyshot-pro, keyshot-2026, 3d-rendering, real-time-render, product-viz, pbr-materials, pro-software-2026, trial-software, windows-software-2026                        
